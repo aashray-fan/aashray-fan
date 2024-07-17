@@ -2,6 +2,12 @@
 
 Hello there! I'm Aashray Bavisa, and this is my GitHub profile. Here you'll find a collection of my personal projects, open-source contributions, and various experiments. Feel free to explore and contribute to any of the repositories you find interesting.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## About Me
 
 - 🌱 I'm passionate about Internet of Things, Automation and Mobile Application Development.
