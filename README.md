@@ -12,7 +12,7 @@ Hello there! I'm Aashray Bavisa, and this is my GitHub profile. Here you'll find
 
 - 🌱 I'm passionate about Internet of Things, Automation and Mobile Application Development.
 - 💼 Currently working as Freelance Full stack Developer.
-- 🎓 Graduated from Gujarat Technological University and currently pursuing PG at Fanshawe College.
+- 🎓 Graduated from Gujarat Technological University and completed PG at Fanshawe College.
 - 💬 Ask me about React Native, Raspberry Pi & DSA.
 - 📫 How to reach me: ashraybavisa@gmail.com.
 
